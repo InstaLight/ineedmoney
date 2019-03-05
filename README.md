@@ -30,3 +30,6 @@ This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
 
 Website Creation and Hosting: $10/month
 Lawn Mowing: $5
+
+## Payment
+I can be paid in cash or Amazon Gift Cards
