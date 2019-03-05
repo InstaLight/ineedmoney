@@ -21,3 +21,5 @@ Below will be a table of the parts, their price, and how much money i currectly 
 | Keyboard | $65 |
 | Mouse | $75 |
 | Monitor | $200 |
+
+This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
