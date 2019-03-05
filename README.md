@@ -23,3 +23,5 @@ Below will be a table of the parts, their price, and how much money i currectly 
 | Monitor | $200 |
 
 This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
+
+# Money Saved: $98/ $1174
