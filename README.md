@@ -8,8 +8,16 @@ Listed below will be what I need money for, and what services I can provide.
 ## I need money for: Parts for a New PC Build
 Below will be a table of the parts, their price, and how much money i currectly have
 
-| Part      | Are           | 
+| Part      | Cost          | 
 | --------- |:-------------:|
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |   
+| CPU      | $145 | 
+| Motherboard     | $94      |  
+| Memory | $98      |  
+| Hard Drive | $45 |
+| SSD |  $80 |
+| GPU | $280 |
+| Case | $60 |
+| PSU | $63 |
+| Keyboard | $65 |
+| Mouse | $75 |
+| Monitor | $200 |
