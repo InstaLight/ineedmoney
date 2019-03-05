@@ -8,8 +8,8 @@ Listed below will be what I need money for, and what services I can provide.
 ## I need money for: Parts for a New PC Build
 Below will be a table of the parts, their price, and how much money i currectly have
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Part      | Are           | 
+| --------- |:-------------:|
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |   
