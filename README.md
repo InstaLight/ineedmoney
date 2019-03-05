@@ -27,3 +27,6 @@ This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
 # Money Saved: $98/ $1174
 
 ## Services
+
+Website Creation and Hosting: $10/month
+Lawn Mowing: $5
