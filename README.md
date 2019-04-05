@@ -32,6 +32,7 @@ This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
 * Lawn Mowing: $5
 * "Virus" : $1 (fake virus that you can choose what you want it to say that you can use to straight up annoy your friends)
 * Discord Bot: $5-15 (bot for the gaming community platform Discord. Pricing can vary depending on what you want your bot to do)
+* Minecraft Server Hosting: $5/month (first come first serve. if you are seeing this option there is a slot for a minecraft server)
 
 
 ## Payment
