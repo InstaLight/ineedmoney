@@ -30,6 +30,15 @@ This is the list for all the parts: https://pcpartpicker.com/list/Dtm73b
 
 * Website Creation and Hosting: $10/month
 * Lawn Mowing: $5
+* "Virus" : $1 (fake virus that you can choose what you want it to say that you can use to straight up annoy your friends)
+* Discord Bot: $5-15 (bot for the gaming community platform Discord. Pricing can vary depending on what you want your bot to do)
+
 
 ## Payment
 I can be paid in cash or Amazon Gift Cards
+
+## Contact me!
+You can contact me via:
+* Discord: InstaLight#0685
+* Email: patchypants0307@icloud.com
+
